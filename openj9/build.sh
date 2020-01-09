@@ -1,0 +1,1 @@
+docker build --tag avanadebr/tomcat:9.0.29-openj9-0.17.0-jre-11.0.5_10 .
